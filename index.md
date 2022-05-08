@@ -35,7 +35,7 @@ ________
 | --------- | ----------- | ------------ |
 | ![image](image/dra.png)| Shiny Dragonite|True|
 | ![image](image/meta.png) | Shiny Metagross | True|
-| ![image](image/sal.png)| Shiny Salamance| True|
+| ![image](image/sal.png)| Shiny Salamance| False but can be true if really needed|
 
 ________
 
