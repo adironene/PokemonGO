@@ -9,13 +9,13 @@
 | Img             | Name             | Dexed |
 | :--------- | ----------- | ------------ |
 | ![image](image/groudon.png)| Shiny Groudon|True|
-| ![image](image/kyo.png) | Shiny Kyogre | Ture|
+| ![image](image/kyo.png) | Shiny Kyogre | True|
 | ![image](image/latios.png)| Shiny Latios| True|
 | ![image](image/mewtwo.png)| Shiny Mewtwo|True|
-| ![image](image/ray.png) | Shiny Rayquaza | Ture|
-| ![image](image/resh.png)| Shiny Reshiram| Ture|
-| ![image](image/zek.png)| Shiny Zekrom| Ture|
-| ![image](image/heat.png)| Shiny Heatran| Ture|
+| ![image](image/ray.png) | Shiny Rayquaza | True|
+| ![image](image/resh.png)| Shiny Reshiram| True|
+| ![image](image/zek.png)| Shiny Zekrom| True|
+| ![image](image/heat.png)| Shiny Heatran| True|
 ----
 
 
