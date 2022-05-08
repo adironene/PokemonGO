@@ -2,7 +2,7 @@
 
 > This is a list of pokemon I would like for lucky trades. Please take a look and let me know which ones you can offer.
 
-<br></br>
+<br/><br/>
 
 ## Tier 1 - Legendary
 
@@ -16,7 +16,8 @@
 | ![image](image/resh.png)| Shiny Reshiram| True|
 | ![image](image/zek.png)| Shiny Zekrom| True|
 | ![image](image/heat.png)| Shiny Heatran| True|
-----
+
+________
 
 
 
@@ -31,8 +32,8 @@
 | ![image](image/dra.png)| Shiny Dragonite|True|
 | ![image](image/meta.png) | Shiny Metagross | Ture|
 | ![image](image/sal.png)| Shiny Salamance| True|
-----
 
+________
 
 
 <br/><br/>
