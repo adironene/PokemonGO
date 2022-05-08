@@ -7,7 +7,7 @@
 ## Tier 1 - Legendary
 
 | Img             | Name             | Dexed |
-| :--------- | ----------- | ------------ |
+| --------- | ----------- | ------------ |
 | ![image](image/groudon.png)| Shiny Groudon|True|
 | ![image](image/kyo.png) | Shiny Kyogre | True|
 | ![image](image/latios.png)| Shiny Latios| True|
@@ -28,9 +28,9 @@ ________
 > I will take the different evolution stage if you do not have the adult version. Example - if you do not have shiny tyranitar but could offer a shiny larvitar, I will take it.
 
 | Img             | Name             | Dexed |
-| :--------- | ----------- | ------------ |
+| --------- | ----------- | ------------ |
 | ![image](image/dra.png)| Shiny Dragonite|True|
-| ![image](image/meta.png) | Shiny Metagross | Ture|
+| ![image](image/meta.png) | Shiny Metagross | True|
 | ![image](image/sal.png)| Shiny Salamance| True|
 
 ________
