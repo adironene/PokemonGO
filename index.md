@@ -25,7 +25,11 @@ ________
 
 ## Tier 2 - Non-legendary
 
-> I will take the different evolution stage if you do not have the adult version. Example - if you do not have shiny tyranitar but could offer a shiny larvitar, I will take it.
+- I will take the different evolution stage if you do not have the adult version.
+- Example - if you do not have shiny tyranitar but could offer a shiny larvitar, I will take it.
+
+<br/><br/>
+
 
 | Img             | Name             | Dexed |
 | --------- | ----------- | ------------ |
@@ -39,3 +43,5 @@ ________
 <br/><br/>
 
 If you do not have any of the pokemon listed, don't worry. Please let me know if you have the nonshiny version of any / a list of Pokemon you can offer.
+
+<br/><br/>
