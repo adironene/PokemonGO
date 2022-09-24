@@ -13,6 +13,7 @@
 | ![image](image/latios.png)         | Latios         | #381      | Shiny Dex - True | Luster Purge             | I will take both shiny / nonshiny / legacy / no legacy versions of this pokemon. My order of preference is as follows `Shiny with Luster` > `Shiny w/o Legacy` > `Regular with Luster` > `Regular w/o Legacy`                                                               |
 | ![image](image/shiny_lugia.png)    | Lugia          | #249      | Shiny Dex - True | Aeroblast                | I will take both shiny / nonshiny / legacy / no legacy versions of this pokemon. My order of preference is as follows `Shiny with Aeroblast` > `Shiny w/o Legacy` > `Regular with Aeroblast` > `Regular w/o`                                                                |
 | ![image](image/shiny_hooh.png)     | Shiny Ho-oh    | #250      | True             | Sacred Fire / Earthquake | I will only be taking the shiny variation of this Pokémon. I am not interested in the regular form. I prefer `Shiny Ho-oh with Earthquake` > `Shiny Ho-oh with Sacred` > `Shiny Ho-oh w/o Legacy`                                                                           |
+
 ________
 
 
