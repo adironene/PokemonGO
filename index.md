@@ -29,7 +29,7 @@ Written:
 | ![image](image/pokemon_icon_486_00_shiny.png) | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A                                                                 |
 | ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | N/A                        | N/A                                                                 |
 ________
-
+________
 
 
 <br/><br/>
