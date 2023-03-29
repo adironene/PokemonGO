@@ -11,7 +11,7 @@
 Written:
 ```Rayquaza > Reshiram > Zekrom > Giratina O > Meltan Family > Terrakion > Latios > Xerneas > Kyurem > Landorus Incarnate > Giratina A > Kyogre > Articuno > Regigigas > Heatran```
 
-| Img                                           | Name               | Pokedex # | Dexed            | Legacy Moves               | Additional Notes                                                    |
+|                      Img                      | Name               | Pokedex # | Dexed            | Legacy Moves               | Additional Notes                                                    |
 | :-------------------------------------------: | ------------------ | --------- | ---------------- | -------------------------- | ------------------------------------------------------------------- |
 | ![image](image/pokemon_icon_384_00_shiny.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
 | ![image](image/pokemon_icon_643_00_shiny.png) | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare               | I will take `Fusion Flare` > no legacy                              |
@@ -38,14 +38,14 @@ Written:
 Written:
 ```Solgaleo > Zacian > Kartana > Buzzwole > Xurkitree > Nihilego > Galar Zapdos > Galar Moltres```
 
-| Img                                      | Name             | Pokedex # | Dexed           | Legacy Moves | Additional Notes |
-| ---------------------------------------- | ---------------- | --------- | --------------- | ------------ | ---------------- |
-| ![image](image/pm791.icon.png)           | Solgaleo         | `#791`    | Dex - True      | N/A          | N/A              |
-| ![image](image/pm888.icon.png)           | Zacian           | `#888`    | Dex - True      | N/A          | N/A              |
-| ![image](image/pm798.icon.png)           | Kartana          | `#798`    | Dex - True      | N/A          | N/A              |
-| ![image](image/pm794.icon.png)           | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A              |
-| ![image](image/pm796.icon.png)           | Xurkitree        | `#796`    | Dex - True      | N/A          | N/A              |
-| ![image](image/pm793.icon.png)           | Nihilego         | `#793`    | Dex - True      | N/A          | N/A              |
+|                   Img                    | Name             | Pokedex # | Dexed           | Legacy Moves | Additional Notes |
+| :--------------------------------------: | ---------------- | --------- | --------------- | ------------ | ---------------- |
+|      ![image](image/pm791.icon.png)      | Solgaleo         | `#791`    | Dex - True      | N/A          | N/A              |
+|      ![image](image/pm888.icon.png)      | Zacian           | `#888`    | Dex - True      | N/A          | N/A              |
+|      ![image](image/pm798.icon.png)      | Kartana          | `#798`    | Dex - True      | N/A          | N/A              |
+|      ![image](image/pm794.icon.png)      | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A              |
+|      ![image](image/pm796.icon.png)      | Xurkitree        | `#796`    | Dex - True      | N/A          | N/A              |
+|      ![image](image/pm793.icon.png)      | Nihilego         | `#793`    | Dex - True      | N/A          | N/A              |
 | ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos  | `#145`    | Dex - **False** | N/A          | N/A              |
 | ![image](image/pm146.fGALARIAN.icon.png) | Galarian Moltres | `#146`    | Dex - **False** | N/A          | N/A              |
 
