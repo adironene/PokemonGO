@@ -20,14 +20,14 @@ Written:
 | ![image](image/pokemon_icon_808_00_shiny.png) | Meltan Family      | `#808`    | Shiny Dex - True | Double Iron Bash           | I do not care for the legacy move. Feel free to give me one without |
 | ![image](image/pokemon_icon_639_00_shiny.png) | Terrakion          | `#639`    | Shiny Dex - True | Sacred Sword               | I will take `Sacred Sword` > no legacy                              |
 | ![image](image/pokemon_icon_381_00_shiny.png) | Latios             | `#381`    | Shiny Dex - True | Luster Purge               | I will take `Luster Purge` > no legacy                              |
-| ![image](image/pokemon_icon_716_00_shiny.png) | Xerneas            | `#716`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| ![image](image/pokemon_icon_716_00_shiny.png) | Xerneas            | `#716`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
 | ![image](image/pokemon_icon_646_11_shiny.png) | Kyurem             | `#646`    | Shiny Dex - True | Glaciate                   | I will take `Glaciate` > no legacy                                  |
-| ![image](image/pokemon_icon_645_11_shiny.png) | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| ![image](image/pokemon_icon_645_11_shiny.png) | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
 | ![image](image/pokemon_icon_487_11_shiny.png) | Giratina A         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
 | ![image](image/pokemon_icon_382_00_shiny.png) | Kyogre             | `#382`    | Shiny Dex - True | Origin Pulse               | I will take `Origin Pulse` > no legacy                              |
 | ![image](image/pokemon_icon_144_00_shiny.png) | Articuno           | `#144`    | Shiny Dex - True | Hurricane                  | I will take `Hurricane` > no legacy                                 |
-| ![image](image/pokemon_icon_486_00_shiny.png) | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A                                                                 |
-| ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| ![image](image/pokemon_icon_486_00_shiny.png) | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
 
 <br/><br/>
 
@@ -38,16 +38,16 @@ Written:
 Written:
 ```Solgaleo > Zacian > Kartana > Buzzwole > Xurkitree > Nihilego > Galar Zapdos > Galar Moltres```
 
-|                   Img                    | Name             | Pokedex # | Dexed           | Legacy Moves | Additional Notes |
-| :--------------------------------------: | ---------------- | --------- | --------------- | ------------ | ---------------- |
-|      ![image](image/pm791.icon.png)      | Solgaleo         | `#791`    | Dex - True      | N/A          | N/A              |
-|      ![image](image/pm888.icon.png)      | Zacian           | `#888`    | Dex - True      | N/A          | N/A              |
-|      ![image](image/pm798.icon.png)      | Kartana          | `#798`    | Dex - True      | N/A          | N/A              |
-|      ![image](image/pm794.icon.png)      | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A              |
-|      ![image](image/pm796.icon.png)      | Xurkitree        | `#796`    | Dex - True      | N/A          | N/A              |
-|      ![image](image/pm793.icon.png)      | Nihilego         | `#793`    | Dex - True      | N/A          | N/A              |
-| ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos  | `#145`    | Dex - **False** | N/A          | N/A              |
-| ![image](image/pm146.fGALARIAN.icon.png) | Galarian Moltres | `#146`    | Dex - **False** | N/A          | N/A              |
+|                   Img                    | Name             | Pokedex # | Dexed           | Legacy Moves | Additional Notes                                         |
+| :--------------------------------------: | ---------------- | --------- | --------------- | ------------ | -------------------------------------------------------- |
+|      ![image](image/pm791.icon.png)      | Solgaleo         | `#791`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+|      ![image](image/pm888.icon.png)      | Zacian           | `#888`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+|      ![image](image/pm798.icon.png)      | Kartana          | `#798`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+|      ![image](image/pm794.icon.png)      | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+|      ![image](image/pm796.icon.png)      | Xurkitree        | `#796`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+|      ![image](image/pm793.icon.png)      | Nihilego         | `#793`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+| ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos  | `#145`    | Dex - **False** | N/A          | N/A - This Pokémon currently does not have a legacy move |
+| ![image](image/pm146.fGALARIAN.icon.png) | Galarian Moltres | `#146`    | Dex - **False** | N/A          | N/A - This Pokémon currently does not have a legacy move |
 
 
 <br/><br/>
