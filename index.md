@@ -12,7 +12,7 @@ Written:
 ```Rayquaza > Reshiram > Zekrom > Giratina O > Meltan Family > Terrakion > Latios > Xerneas > Kyurem > Landorus Incarnate > Giratina A > Kyogre > Articuno > Regigigas > Heatran```
 
 | Img                                           | Name               | Pokedex # | Dexed            | Legacy Moves               | Additional Notes                                                    |
-| --------------------------------------------- | ------------------ | --------- | ---------------- | -------------------------- | ------------------------------------------------------------------- |
+| :-------------------------------------------: | ------------------ | --------- | ---------------- | -------------------------- | ------------------------------------------------------------------- |
 | ![image](image/pokemon_icon_384_00_shiny.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
 | ![image](image/pokemon_icon_643_00_shiny.png) | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare               | I will take `Fusion Flare` > no legacy                              |
 | ![image](image/pokemon_icon_644_00_shiny.png) | Zekrom             | `#644`    | Shiny Dex - True | Fusion Bolt                | I do not care for the legacy move. Feel free to give me one without |
@@ -28,9 +28,6 @@ Written:
 | ![image](image/pokemon_icon_144_00_shiny.png) | Articuno           | `#144`    | Shiny Dex - True | Hurricane                  | I will take `Hurricane` > no legacy                                 |
 | ![image](image/pokemon_icon_486_00_shiny.png) | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A                                                                 |
 | ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | N/A                        | N/A                                                                 |
-________
-________
-
 
 <br/><br/>
 
@@ -51,7 +48,6 @@ Written:
 | ![image](image/pm793.icon.png)           | Nihilego         | `#793`    | Dex - True      | N/A          | N/A              |
 | ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos  | `#145`    | Dex - **False** | N/A          | N/A              |
 | ![image](image/pm146.fGALARIAN.icon.png) | Galarian Moltres | `#146`    | Dex - **False** | N/A          | N/A              |
-________
 
 
 <br/><br/>
