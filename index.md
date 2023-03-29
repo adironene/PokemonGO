@@ -7,23 +7,23 @@
 ## List 1 - Legendary Shiny Pokemon
  shiny girations A > Shiny kyogre > Shiny articuno > shiny > regigigas > shiny heatran
 
-| Img                                | Name               | Pokedex # | Dexed            | Legacy Moves               | Additional Notes                                                    |
-| ---------------------------------- | ------------------ | --------- | ---------------- | -------------------------- | ------------------------------------------------------------------- |
-| ![image](image/shiny_articuno.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
-| ![image](image/mewtwo.png)         | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare               | I will take `Fusion Flare` > no legacy                              |
-| ![image](image/latios.png)         | Zekrom             | `#644`    | Shiny Dex - True | Fusion Bolt                | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/shiny_lugia.png)    | Giratina O         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/shiny_hooh.png)     | Meltan Family      | `#808`    | Shiny Dex - True | Double Iron Bash           | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/shiny_hooh.png)     | Terrakion          | `#639`    | Shiny Dex - True | Sacred Sword               | I will take `Sacred Sword` > no legacy                              |
-| ![image](image/shiny_hooh.png)     | Latios             | `#381`    | Shiny Dex - True | Luster Purge               | I will take `Luster Purge` > no legacy                              |
-| ![image](image/shiny_hooh.png)     | Xerneas            | `#716`    | Shiny Dex - True | N/A                        | N/A                                                                 |
-| ![image](image/shiny_hooh.png)     | Kyurem             | `#646`    | Shiny Dex - True | Glaciate                   | I will take `Glaciate` > no legacy                                  |
-| ![image](image/shiny_hooh.png)     | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                        | N/A                                                                 |
-| ![image](image/shiny_hooh.png)     | Giratina A         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/shiny_hooh.png)     | Kyogre             | `#382`    | Shiny Dex - True | Origin Pulse               | I will take `Origin Pulse` > no legacy                              |
-| ![image](image/shiny_hooh.png)     | Articuno           | `#144`    | Shiny Dex - True | Hurricane                  | I will take `Hurricane` > no legacy                                 |
-| ![image](image/shiny_hooh.png)     | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A                                                                 |
-| ![image](image/shiny_hooh.png)     | Heatran            | `#485`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| Img                                           | Name               | Pokedex # | Dexed            | Legacy Moves               | Additional Notes                                                    |
+| --------------------------------------------- | ------------------ | --------- | ---------------- | -------------------------- | ------------------------------------------------------------------- |
+| ![image](image/pokemon_icon_384_00_shiny.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
+| ![image](image/mewtwo.png)                    | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare               | I will take `Fusion Flare` > no legacy                              |
+| ![image](image/latios.png)                    | Zekrom             | `#644`    | Shiny Dex - True | Fusion Bolt                | I do not care for the legacy move. Feel free to give me one without |
+| ![image](image/shiny_lugia.png)               | Giratina O         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
+| ![image](image/shiny_hooh.png)                | Meltan Family      | `#808`    | Shiny Dex - True | Double Iron Bash           | I do not care for the legacy move. Feel free to give me one without |
+| ![image](image/shiny_hooh.png)                | Terrakion          | `#639`    | Shiny Dex - True | Sacred Sword               | I will take `Sacred Sword` > no legacy                              |
+| ![image](image/shiny_hooh.png)                | Latios             | `#381`    | Shiny Dex - True | Luster Purge               | I will take `Luster Purge` > no legacy                              |
+| ![image](image/shiny_hooh.png)                | Xerneas            | `#716`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| ![image](image/shiny_hooh.png)                | Kyurem             | `#646`    | Shiny Dex - True | Glaciate                   | I will take `Glaciate` > no legacy                                  |
+| ![image](image/shiny_hooh.png)                | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| ![image](image/shiny_hooh.png)                | Giratina A         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
+| ![image](image/shiny_hooh.png)                | Kyogre             | `#382`    | Shiny Dex - True | Origin Pulse               | I will take `Origin Pulse` > no legacy                              |
+| ![image](image/shiny_hooh.png)                | Articuno           | `#144`    | Shiny Dex - True | Hurricane                  | I will take `Hurricane` > no legacy                                 |
+| ![image](image/shiny_hooh.png)                | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A                                                                 |
+| ![image](image/shiny_hooh.png)                | Heatran            | `#485`    | Shiny Dex - True | N/A                        | N/A                                                                 |
 ________
 
 
