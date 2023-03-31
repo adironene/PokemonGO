@@ -56,9 +56,28 @@ Written:
 
 Written:
 ```Lucario Family > Pidgeot Family > Lanturn Family > Mantine Family > Skarmory > Mamoswine Family > Mandibuzz family > Alolan Sandshrew```
+
+|                   Img                    | Name             | Pokedex # | Dexed                 | Legacy Moves       | Additional Notes                                                    |
+| :--------------------------------------: | ---------------- | --------- | --------------------- | ------------------ | ------------------------------------------------------------------- |
+|      ![image](image/pokemon_icon_448_00_shiny.png)      | Lucario Family   | `#448`    | Shiny Dex - **False** | N/A                | N/A - This Pokémon currently does not have a legacy move            |
+|      ![image](image/pokemon_icon_018_00_shiny.png)      | Pidgeot Family   | `#018`    | Shiny Dex - True      | Wing Attack / Gust | I will take `Wing Attack` > everything else; I don't care for Gust  |
+|      ![image](image/pokemon_icon_171_00_shiny.png)      | Lanturn Family   | `#171`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
+|      ![image](image/pokemon_icon_226_00_shiny.png)      | Mantine Family   | `#226`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
+|      ![image](image/pokemon_icon_227_00_shiny.png)      | Skarmory         | `#227`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
+|      ![image](image/pokemon_icon_473_00_shiny.png)      | Mamoswine Family | `#473`    | Shiny Dex - True      | Ancient Power      | I do not care for the legacy move. Feel free to give me one without |
+| ![image](image/pokemon_icon_630_00_shiny.png) | Mandibuzz Family | `#630`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/pokemon_icon_027_61_shiny.png) | Alolan Sandshrew | `#027`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
+
 ## List 4 - Other Pokemon
 
 Written:
-```Pachirisu > Flores > Dubwool```
+```Pachirisu > Armored Mewtwo > Florges > Dubwool```
+
+|              Img               | Name           | Pokedex # | Dexed           | Legacy Moves | Additional Notes                                         |
+| :----------------------------: | -------------- | --------- | --------------- | ------------ | -------------------------------------------------------- |
+| ![image](image/pm417.icon.png) | Pachirisu      | `#417`    | Dex - **False** | N/A          | N/A - This Pokémon currently does not have a legacy move |
+| ![image](image/pm150.fA.icon.png) | Armored Mewtwo | `#150`    | Dex - **False** | Psystrike    | I will take `Psystrike` > regular                        |
+| ![image](image/671.png) | Florges        | `#671`    | Dex - True      | N/A          | I do not care what color the flower is                   |
+| ![image](image/pm832.icon.png) | Dubwool        | `#832`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 
 <br/><br/>
