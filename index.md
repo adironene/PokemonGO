@@ -41,7 +41,6 @@ Written:
 |                   Img                    | Name             | Pokedex # | Dexed           | Legacy Moves | Additional Notes                                         |
 | :--------------------------------------: | ---------------- | --------- | --------------- | ------------ | -------------------------------------------------------- |
 |      ![image](image/pm791.icon.png)      | Solgaleo         | `#791`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
-|      ![image](image/pm888.icon.png)      | Zacian           | `#888`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm798.icon.png)      | Kartana          | `#798`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm794.icon.png)      | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm796.icon.png)      | Xurkitree        | `#796`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
