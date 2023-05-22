@@ -59,7 +59,6 @@ Written:
 |                   Img                    | Name             | Pokedex # | Dexed                 | Legacy Moves       | Additional Notes                                                    |
 | :--------------------------------------: | ---------------- | --------- | --------------------- | ------------------ | ------------------------------------------------------------------- |
 |      ![image](image/pokemon_icon_448_00_shiny.png)      | Lucario Family   | `#448`    | Shiny Dex - **False** | N/A                | N/A - This Pokémon currently does not have a legacy move            |
-|      ![image](image/pokemon_icon_018_00_shiny.png)      | Pidgeot Family   | `#018`    | Shiny Dex - True      | Wing Attack / Gust | I will take `Wing Attack` > everything else; I don't care for Gust  |
 |      ![image](image/pokemon_icon_171_00_shiny.png)      | Lanturn Family   | `#171`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
 |      ![image](image/pokemon_icon_226_00_shiny.png)      | Mantine Family   | `#226`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
 |      ![image](image/pokemon_icon_227_00_shiny.png)      | Skarmory         | `#227`    | Shiny Dex - True      | N/A                | N/A - This Pokémon currently does not have a legacy move            |
