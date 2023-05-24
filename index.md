@@ -54,7 +54,7 @@ Written:
 ## List 3 - Shiny Non-Legendary Pokemon
 
 Written:
-```Lucario Family > Pidgeot Family > Lanturn Family > Mantine Family > Skarmory > Mamoswine Family > Mandibuzz family > Alolan Sandshrew```
+```Lucario Family > Lanturn Family > Mantine Family > Skarmory > Mamoswine Family > Mandibuzz family > Alolan Sandshrew```
 
 |                   Img                    | Name             | Pokedex # | Dexed                 | Legacy Moves       | Additional Notes                                                    |
 | :--------------------------------------: | ---------------- | --------- | --------------------- | ------------------ | ------------------------------------------------------------------- |
