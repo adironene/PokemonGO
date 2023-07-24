@@ -36,11 +36,10 @@ Written:
 <br/><br/>
 
 Written:
-```Zygarde > Solgaleo > Zacian > Kartana > Buzzwole > Xurkitree > Nihilego > Galar Zapdos > Galar Moltres```
+```Solgaleo > Zacian > Kartana > Buzzwole > Xurkitree > Nihilego > Galar Zapdos > Galar Moltres```
 
 |                   Img                    | Name             | Pokedex # | Dexed           | Legacy Moves | Additional Notes                                         |
 | :--------------------------------------: | ---------------- | --------- | --------------- | ------------ | -------------------------------------------------------- |
-|      ![image](image/Zygarde.png)      | Zygarde         | `#718`    | Dex - True      | N/A          | I am not willing to mirror|
 |      ![image](image/pm791.icon.png)      | Solgaleo         | `#791`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm798.icon.png)      | Kartana          | `#798`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm794.icon.png)      | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
