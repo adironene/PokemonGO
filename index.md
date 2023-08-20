@@ -11,23 +11,24 @@
 Written:
 ```Rayquaza > Reshiram > Zekrom > Giratina O > Meltan Family > Terrakion > Latios > Xerneas > Kyurem > Landorus Incarnate > Giratina A > Kyogre > Articuno > Regigigas > Heatran```
 
-|                      Img                      | Name               | Pokedex # | Dexed            | Legacy Moves               | Additional Notes                                                    |
-| :-------------------------------------------: | ------------------ | --------- | ---------------- | -------------------------- | ------------------------------------------------------------------- |
-| ![image](image/pokemon_icon_384_00_shiny.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
-| ![image](image/pokemon_icon_643_00_shiny.png) | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare               | I will take `Fusion Flare` > no legacy                              |
-| ![image](image/pokemon_icon_644_00_shiny.png) | Zekrom             | `#644`    | Shiny Dex - True | Fusion Bolt                | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/pokemon_icon_487_12_shiny.png) | Giratina O         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/pokemon_icon_808_00_shiny.png) | Meltan Family      | `#808`    | Shiny Dex - True | Double Iron Bash           | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/pokemon_icon_639_00_shiny.png) | Terrakion          | `#639`    | Shiny Dex - True | Sacred Sword               | I will take `Sacred Sword` > no legacy                              |
-| ![image](image/pokemon_icon_381_00_shiny.png) | Latios             | `#381`    | Shiny Dex - True | Luster Purge               | I will take `Luster Purge` > no legacy                              |
-| ![image](image/pokemon_icon_716_00_shiny.png) | Xerneas            | `#716`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_646_11_shiny.png) | Kyurem             | `#646`    | Shiny Dex - True | Glaciate                   | I will take `Glaciate` > no legacy                                  |
-| ![image](image/pokemon_icon_645_11_shiny.png) | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_487_11_shiny.png) | Giratina A         | `#487`    | Shiny Dex - True | Shadow Force               | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/pokemon_icon_382_00_shiny.png) | Kyogre             | `#382`    | Shiny Dex - True | Origin Pulse               | I will take `Origin Pulse` > no legacy                              |
-| ![image](image/pokemon_icon_144_00_shiny.png) | Articuno           | `#144`    | Shiny Dex - True | Hurricane                  | I will take `Hurricane` > no legacy                                 |
-| ![image](image/pokemon_icon_486_00_shiny.png) | Regigigas          | `#486`    | Shiny Dex - True | N/A                        | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | Magma Storm                | I will take `Magma Storm` > no legacy                               |
+|                      Img                      | Name               | Pokedex # | Dexed            | Legacy Moves                               | Additional Notes                                                              |
+| :-------------------------------------------: | ------------------ | --------- | ---------------- | ------------------------------------------ | ----------------------------------------------------------------------------- |
+| ![image](image/pokemon_icon_384_00_shiny.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe / Dragon Ascent | I will be taking `Dragon Ascent` > `Breaking Swipe` > `Hurricane` > no legacy |
+| ![image](image/pokemon_icon_643_00_shiny.png) | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare                               | I will take `Fusion Flare` > no legacy                                        |
+| ![image](image/pokemon_icon_644_00_shiny.png) | Zekrom             | `#644`    | Shiny Dex - True | Fusion Bolt                                | I do not care for the legacy move. Feel free to give me one without           |
+| ![image](image/pokemon_icon_487_12_shiny.png) | Giratina O         | `#487`    | Shiny Dex - True | Shadow Force                               | I do not care for the legacy move. Feel free to give me one without           |
+| ![image](image/pokemon_icon_716_00_shiny.png) | Xerneas            | `#716`    | Shiny Dex - True | Geomancy                                   | I will take `Geomancy` > no legacy                                            |
+| ![image](image/pokemon_icon_808_00_shiny.png) | Meltan Family      | `#808`    | Shiny Dex - True | Double Iron Bash                           | I do not care for the legacy move. Feel free to give me one without           |
+| ![image](image/pokemon_icon_639_00_shiny.png) | Terrakion          | `#639`    | Shiny Dex - True | Sacred Sword                               | I will take `Sacred Sword` > no legacy                                        |
+| ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | Magma Storm                                | I will take `Magma Storm` > no legacy                                         |
+| ![image](image/pokemon_icon_381_00_shiny.png) | Latios             | `#381`    | Shiny Dex - True | Luster Purge                               | I will take `Luster Purge` > no legacy                                        |
+| ![image](image/pokemon_icon_646_11_shiny.png) | Kyurem             | `#646`    | Shiny Dex - True | Glaciate                                   | I will take `Glaciate` > no legacy                                            |
+|      ![image](image/793.png)      | Nihilego         | `#793`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
+| ![image](image/pokemon_icon_645_11_shiny.png) | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                                        | N/A - This Pokémon currently does not have a legacy move                      |
+| ![image](image/pokemon_icon_487_11_shiny.png) | Giratina A         | `#487`    | Shiny Dex - True | Shadow Force                               | I do not care for the legacy move. Feel free to give me one without           |
+| ![image](image/pokemon_icon_382_00_shiny.png) | Kyogre             | `#382`    | Shiny Dex - True | Origin Pulse                               | I will take `Origin Pulse` > no legacy                                        |
+| ![image](image/pokemon_icon_144_00_shiny.png) | Articuno           | `#144`    | Shiny Dex - True | Hurricane                                  | I will take `Hurricane` > no legacy                                           |
+| ![image](image/pokemon_icon_486_00_shiny.png) | Regigigas          | `#486`    | Shiny Dex - True | N/A                                        | N/A - This Pokémon currently does not have a legacy move                      |
 
 <br/><br/>
 
@@ -44,8 +45,7 @@ Written:
 |      ![image](image/pm798.icon.png)      | Kartana          | `#798`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm794.icon.png)      | Buzzwole         | `#794`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 |      ![image](image/pm796.icon.png)      | Xurkitree        | `#796`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
-|      ![image](image/pm793.icon.png)      | Nihilego         | `#793`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
-| ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos  | `#145`    | Dex - **False** | N/A          | N/A - This Pokémon currently does not have a legacy move |
+| ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos  | `#145`    | Dex - true | N/A          | N/A - This Pokémon currently does not have a legacy move |
 | ![image](image/pm146.fGALARIAN.icon.png) | Galarian Moltres | `#146`    | Dex - **False** | N/A          | N/A - This Pokémon currently does not have a legacy move |
 
 
@@ -56,15 +56,16 @@ Written:
 Written:
 ```Lucario Family > Lanturn Family > Mantine Family > Skarmory > Mamoswine Family > Mandibuzz family > Alolan Sandshrew```
 
-|                      Img                      | Name             | Pokedex # | Dexed                 | Legacy Moves  | Additional Notes                                                    |
-| :-------------------------------------------: | ---------------- | --------- | --------------------- | ------------- | ------------------------------------------------------------------- |
+|                      Img                      | Name             | Pokedex # | Dexed            | Legacy Moves  | Additional Notes                                                    |
+| :-------------------------------------------: | ---------------- | --------- | ---------------- | ------------- | ------------------------------------------------------------------- |
 | ![image](image/pokemon_icon_448_00_shiny.png) | Lucario Family   | `#448`    | Shiny Dex - True | N/A           | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_171_00_shiny.png) | Lanturn Family   | `#171`    | Shiny Dex - True      | N/A           | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_226_00_shiny.png) | Mantine Family   | `#226`    | Shiny Dex - True      | N/A           | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_227_00_shiny.png) | Skarmory         | `#227`    | Shiny Dex - True      | N/A           | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_473_00_shiny.png) | Mamoswine Family | `#473`    | Shiny Dex - True      | Ancient Power | I do not care for the legacy move. Feel free to give me one without |
-| ![image](image/pokemon_icon_630_00_shiny.png) | Mandibuzz Family | `#630`    | Shiny Dex - True      | N/A           | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pokemon_icon_027_61_shiny.png) | Alolan Sandshrew | `#027`    | Shiny Dex - True      | N/A           | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/346.png) | Lileep Family | `#346`    | Shiny Dex - True | N/A | N/A - This Pokémon currently does not have a legacy move        |
+| ![image](image/pokemon_icon_473_00_shiny.png) | Mamoswine Family | `#473`    | Shiny Dex - True | Ancient Power | I do not care for the legacy move. Feel free to give me one without |
+| ![image](image/pokemon_icon_171_00_shiny.png) | Lanturn Family   | `#171`    | Shiny Dex - True | N/A           | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/pokemon_icon_226_00_shiny.png) | Mantine Family   | `#226`    | Shiny Dex - True | N/A           | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/pokemon_icon_227_00_shiny.png) | Skarmory         | `#227`    | Shiny Dex - True | N/A           | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/pokemon_icon_630_00_shiny.png) | Mandibuzz Family | `#630`    | Shiny Dex - True | N/A           | N/A - This Pokémon currently does not have a legacy move            |
+| ![image](image/pokemon_icon_027_61_shiny.png) | Alolan Sandshrew | `#027`    | Shiny Dex - True | N/A           | N/A - This Pokémon currently does not have a legacy move            |
 
 ## List 4 - Other Pokemon
 
