@@ -9,26 +9,79 @@
 ### Mega
 - (rock, flying) aerodactyl
 - (psychic) alakazam
+- (fire, fighting) blaziken
 - (fire, flying, dragon) char
+- (ice) glalie
 - (water dark) gyarados
 - (bug flying) pinsir
+- (grass, dragon) sceptile 
 - (ground, steel) steelix
-- (rock dark) ttar x2
-- (grass, dragon) sceptile
-- (fire, fighting) blaziken
 - (ground, water) swampert
-- (ice) glalie
+- (rock dark) ttar x2
 - (dragon, psychic) latias
 - (dragon, psychic) latios
 
-**need**: normal, poison, ghost, electric, fairy  
+**need**: 
+- mega: normal, poison, ghost, electric, fairy  
 - groudon : 250 energy need 150 more
 - kyogre: 0 energy need 400 more
 - ray: 0 energy need 400 more
 
 ### Legendary
+- articuno
+- azelf
+- cobalion
 - cresselia
+- dialga
+- groudon
+- heatran
+- ho-oh
+- kyogre
+- kyurem
+- landorus(both)
+- latias
+- latios
+- lugia
+- mewtwo
+- moltres
+- palkia
+- rayquaza
+- regice
 - regidrago
+- regieleki
+- regigigas
+- regirock
+- registeel
+- reshiram
+- tapu bulu
+- tapu fini
+- tapu koko
+- tapu lele
+- terrakion
+- thundurus (both)
+- tornadus (both)
+- virizion
+- xerneas
+- yveltal
+- zacian
+- zamazenta
+- zapdos
+- zekrom
+
+### Mythical
+- deoxys (defense, normal)
+- genesect (chill, normal)
+- hoopa
+- meloetta
+- meltan
+
+### Ultra Beasts
+- buzzwole
+- guzzlord
+- kartana
+- nihilego
+- pheromosa
+- xurkitree
 
 
 # M00CEY (L35 Valor)
@@ -36,6 +89,7 @@
 ### Mega
 - (flying, fire, dragon) char
 - (fire, fighting) blaziken
+- (ice) glalie
 - (water, dark) gyarados
 - (dragon, psychic) latios
 - (dragon, grass) sceptile
@@ -43,8 +97,10 @@
 - (dark, rock) ttar
 
 **need**: 
+- mega: normal, poison, bug, ghost, steel, eletric, fairy
 - groudon: 90 energy need 310 more
 - kyogre: 170 energy need 230 more
+- rayquaza: 0 energy need 400 more
 
 ### Legendary
 - articuno
@@ -63,7 +119,7 @@
 - latios
 - lugia
 - mewtwo
-- moltres
+- moltres [shiny]
 - palkia
 - rayquaza
 - regice
@@ -78,8 +134,21 @@
 - terrakion
 - thundurus
 - tornadus
-- xerneas
+- xerneas [shiny]
 - yveltal
 - zamazenta
 - zapdos
 - zekrom
+
+### Ultra beasts
+- buzzwole
+- guzzlord
+- kartana
+- nihilego
+- pheromosa
+- xurkitree
+
+### mythical
+- deoxys (normal, speed)
+- genesect (chill, normal)
+- hoopa
