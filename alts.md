@@ -24,8 +24,9 @@
 **need**: 
 - mega: normal, poison, ghost, electric, fairy  
 - groudon : 250 energy need 150 more
-- kyogre: 0 energy need 400 more
+- kyogre: 80 energy need 320 more
 - ray: 0 energy need 400 more
+- have 8 premium passes
 
 ### Legendary
 - articuno
@@ -152,3 +153,11 @@
 - deoxys (normal, speed)
 - genesect (chill, normal)
 - hoopa
+
+# M00CSEE (L35 Valor) with shelgon
+
+**need**
+- [DONE] Kyogre
+- Groudon have 180 need 220
+- Rayquaza have 0 need 400
+- have 5 premium passes
