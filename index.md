@@ -36,28 +36,25 @@ String to copy for search:
 
 ## List 2 - Non-Shiny Legendary Pokemon
 
-<br/><br/>
-
 String to copy for search:
 
 ```!traded&791,798,796,384,643,644,487,639,716,646,145&galar,146&galar```
 
-
-|                   Img                    | Name              | Pokedex # | Dexed            | Legacy Moves                               | Additional Notes                                                    |
-| :--------------------------------------: | ----------------- | --------- | ---------------- | ------------------------------------------ | ------------------------------------------------------------------- |
-|      ![image](image/pm791.icon.png)      | Solgaleo          | `#791`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
-|      ![image](image/pm798.icon.png)      | Kartana           | `#798`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
-|      ![image](image/pm796.icon.png)      | Xurkitree         | `#796`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
-|         ![image](image/384.png)          | Rayquaza          | `#384`    | Dex - True       | Hurricane / Breaking Swipe / Dragon Ascent | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
-|      ![image](image/pm794.icon.png)      | Buzzwole          | `#794`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
-|     ![image](image/0643Reshiram.png)     | Reshiram          | `#643`    | Shiny Dex - True | Fusion Flare                               | I will take `Fusion Flare` > no legacy                              |
-|       ![image](image/Zekrom.webp)        | Zekrom            | `#644`    | Shiny Dex - True | Fusion Bolt                                | I do not care for the legacy move. Feel free to give me one without |
-|      ![image](image/giratinao.png)       | Giratina (Origin) | `#487`    | Shiny Dex - True | Shadow Force                               | I do not care for the legacy move. Feel free to give me one without |
-|    ![image](image/639-Terrakion.webp)    | Terrakion         | `#639`    | Shiny Dex - True | Sacred Sword                               | I will take `Sacred Sword` > no legacy                              |
-|       ![image](image/xerneas.png)        | Xerneas           | `#716`    | Shiny Dex - True | Geomancy                                   | I will take `Geomancy` > no legacy                                  |
-|         ![image](image/646.png)          | Kyurem            | `#646`    | Shiny Dex - True | Glaciate                                   | I will take `Glaciate` > no legacy                                  |
-| ![image](image/pm145.fGALARIAN.icon.png) | Galarian Zapdos   | `#145`    | Dex - true       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
-| ![image](image/pm146.fGALARIAN.icon.png) | Galarian Moltres  | `#146`    | Dex - **False**  | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
+|                       Img                        | Name              | Pokedex # | Dexed            | Legacy Moves                               | Additional Notes                                                    |
+| :----------------------------------------------: | ----------------- | --------- | ---------------- | ------------------------------------------ | ------------------------------------------------------------------- |
+| ![image](image/solgaleo_notshiny_pm791.icon.png) | Solgaleo          | `#791`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
+|          ![image](image/pm798.icon.png)          | Kartana           | `#798`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
+|          ![image](image/pm796.icon.png)          | Xurkitree         | `#796`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
+|             ![image](image/384.png)              | Rayquaza          | `#384`    | Dex - True       | Hurricane / Breaking Swipe / Dragon Ascent | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
+|          ![image](image/pm794.icon.png)          | Buzzwole          | `#794`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
+|         ![image](image/0643Reshiram.png)         | Reshiram          | `#643`    | Shiny Dex - True | Fusion Flare                               | I will take `Fusion Flare` > no legacy                              |
+|            ![image](image/zekro.png)             | Zekrom            | `#644`    | Shiny Dex - True | Fusion Bolt                                | I do not care for the legacy move. Feel free to give me one without |
+|          ![image](image/giratinao.png)           | Giratina (Origin) | `#487`    | Shiny Dex - True | Shadow Force                               | I do not care for the legacy move. Feel free to give me one without |
+|     ![image](image/639-Terrakion%20copy.png)     | Terrakion         | `#639`    | Shiny Dex - True | Sacred Sword                               | I will take `Sacred Sword` > no legacy                              |
+|           ![image](image/xerneas.png)            | Xerneas           | `#716`    | Shiny Dex - True | Geomancy                                   | I will take `Geomancy` > no legacy                                  |
+|             ![image](image/646.png)              | Kyurem            | `#646`    | Shiny Dex - True | Glaciate                                   | I will take `Glaciate` > no legacy                                  |
+|     ![image](image/pm145.fGALARIAN.icon.png)     | Galarian Zapdos   | `#145`    | Dex - true       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
+|     ![image](image/pm146.fGALARIAN.icon.png)     | Galarian Moltres  | `#146`    | Dex - **False**  | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
 
 
 <br/><br/>
