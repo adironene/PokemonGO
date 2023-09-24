@@ -10,11 +10,10 @@
 
 String to copy for search:
 
-```shiny&!traded&384,643,644,487,639,716,808,809,485,381,646,793,150,382,645,487,144,486```
+```shiny&!traded&643,644,487,639,716,808,809,485,381,646,793,150,382,645,487,144,486```
 
 |                      Img                      | Name               | Pokedex # | Dexed            | Legacy Moves                               | Additional Notes                                                                                                                 |
 | :-------------------------------------------: | ------------------ | --------- | ---------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| ![image](image/pokemon_icon_384_00_shiny.png) | Rayquaza           | `#384`    | Shiny Dex - True | Hurricane / Breaking Swipe / Dragon Ascent | **This is #1 preference on my trade list. Desire >>> rest of list**. I will be taking `Breaking Swipe` > `Hurricane` > no legacy |
 | ![image](image/pokemon_icon_643_00_shiny.png) | Reshiram           | `#643`    | Shiny Dex - True | Fusion Flare                               | I will take `Fusion Flare` > no legacy                                                                                           |
 | ![image](image/pokemon_icon_644_00_shiny.png) | Zekrom             | `#644`    | Shiny Dex - True | Fusion Bolt                                | I do not care for the legacy move. Feel free to give me one without                                                              |
 | ![image](image/pokemon_icon_487_12_shiny.png) | Giratina (Origin)  | `#487`    | Shiny Dex - True | Shadow Force                               | I do not care for the legacy move. Feel free to give me one without                                                              |
@@ -24,7 +23,7 @@ String to copy for search:
 | ![image](image/pokemon_icon_485_00_shiny.png) | Heatran            | `#485`    | Shiny Dex - True | Magma Storm                                | I will take `Magma Storm` > no legacy                                                                                            |
 | ![image](image/pokemon_icon_381_00_shiny.png) | Latios             | `#381`    | Shiny Dex - True | Luster Purge                               | I will take `Luster Purge` > no legacy                                                                                           |
 | ![image](image/pokemon_icon_646_11_shiny.png) | Kyurem             | `#646`    | Shiny Dex - True | Glaciate                                   | I will take `Glaciate` > no legacy                                                                                               |
-|            ![image](image/793.png)            | Nihilego           | `#793`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move                                                                         |
+|            ![image](image/793.png)            | Nihilego           | `#793`    | Shiny Dex - True | N/A                                        | N/A - This Pokémon currently does not have a legacy move                                                                         |
 |       ![image](image/shiny-mewtwo.png)        | Mewtwo             | `#150`    | Shiny Dex - True | Psystrike / Shadow Ball / Hyper beam       | I will take any legacy > no legacy                                                                                               |
 | ![image](image/pokemon_icon_382_00_shiny.png) | Kyogre             | `#382`    | Shiny Dex - True | Origin Pulse                               | I will take `Origin Pulse` > no legacy                                                                                           |
 | ![image](image/pokemon_icon_645_11_shiny.png) | Landorus Incarnate | `#645`    | Shiny Dex - True | N/A                                        | N/A - This Pokémon currently does not have a legacy move                                                                         |
@@ -45,7 +44,6 @@ String to copy for search:
 | ![image](image/solgaleo_notshiny_pm791.icon.png) | Solgaleo          | `#791`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
 |          ![image](image/pm798.icon.png)          | Kartana           | `#798`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
 |          ![image](image/pm796.icon.png)          | Xurkitree         | `#796`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
-|             ![image](image/384.png)              | Rayquaza          | `#384`    | Dex - True       | Hurricane / Breaking Swipe / Dragon Ascent | I will be taking `Breaking Swipe` > `Hurricane` > no legacy         |
 |          ![image](image/pm794.icon.png)          | Buzzwole          | `#794`    | Dex - True       | N/A                                        | N/A - This Pokémon currently does not have a legacy move            |
 |         ![image](image/0643Reshiram.png)         | Reshiram          | `#643`    | Shiny Dex - True | Fusion Flare                               | I will take `Fusion Flare` > no legacy                              |
 |            ![image](image/zekro.png)             | Zekrom            | `#644`    | Shiny Dex - True | Fusion Bolt                                | I do not care for the legacy move. Feel free to give me one without |
