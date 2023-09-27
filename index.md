@@ -82,7 +82,6 @@ String to copy for search:
 
 |                Img                | Name           | Pokedex # | Dexed           | Legacy Moves | Additional Notes                                         |
 | :-------------------------------: | -------------- | --------- | --------------- | ------------ | -------------------------------------------------------- |
-|  ![image](image/pm417.icon.png)   | Pachirisu      | `#417`    | Dex - true      | N/A          | N/A - This Pokémon currently does not have a legacy move |
 | ![image](image/pm150.fA.icon.png) | Armored Mewtwo | `#150`    | Dex - **False** | Psystrike    | I will take `Psystrike` > regular                        |
 |      ![image](image/671.png)      | Florges Family | `#671`    | Dex - True      | N/A          | I do not care what color the flower is                   |
 |  ![image](image/pm832.icon.png)   | Dubwool Family | `#832`    | Dex - True      | N/A          | N/A - This Pokémon currently does not have a legacy move |
